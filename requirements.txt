@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+langchain_community
+langchain-google-genai
+faiss-cpu
+langchain-groq
+langchain
+
+
